@@ -1,0 +1,2 @@
+# a_maze_ing
+A-Maze-ing is a maze generation project written in Python 3. The program reads a configuration file, generates a valid maze, computes the shortest path between an entry and an exit, exports the maze using a hexadecimal wall representation, and provides an ASCII visualization in the terminal.
